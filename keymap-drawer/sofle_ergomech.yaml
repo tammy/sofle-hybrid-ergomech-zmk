@@ -43,24 +43,24 @@ layers:
   - C
   - V
   - B
-  - MUTE
-  - ''
   - N
   - M
   - ','
   - .
   - /
-  - RSHFT
+  - RIGHT SHIFT
   - ''
-  - LALT
-  - LCTRL
+  - ''
+  - LEFT ALT
   - ENTER
   - LEFT COMMAND
+  - ''
+  - ''
   - BACKSPACE
   - SPACE
-  - RCTRL
-  - RALT
-  - RGUI
+  - VOLUME DOWN
+  - VOLUME UP
+  - MUTE
   lower:
   - {t: ▽, type: trans}
   - F1
@@ -81,9 +81,9 @@ layers:
   - '}'
   - '|'
   - {t: ▽, type: trans}
-  - '7'
+  - {t: ▽, type: trans}
   - UP ARROW
-  - '9'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F12
   - {t: ▽, type: trans}
