@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: sofle_ergomech}
 layers:
   default:
-  - '`'
+  - '='
   - '1'
   - '2'
   - '3'
