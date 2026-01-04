@@ -38,8 +38,8 @@ layers:
   - {t: ;, h: lower}
   - {t: '''', h: adjust}
   - LSHFT
-  - {t: LCTRL, h: Z}
-  - {t: LEFT ALT, h: X}
+  - Z
+  - X
   - C
   - V
   - B
@@ -195,7 +195,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: adjust, h: toggle}
+  - ''
   - EP TOG
   - RGB HUD
   - RGB HUI
